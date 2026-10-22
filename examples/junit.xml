@@ -1,0 +1,2 @@
+<testsuite name="core" tests="3" failures="1"><testcase classname="core.TestMath" name="add" time="0.02"/><testcase classname="core.TestMath" name="divide" time="0.03"><failure message="division mismatch">expected 2</failure></testcase><testcase classname="core.TestIO" name="load" time="0.10"/></testsuite>
+
